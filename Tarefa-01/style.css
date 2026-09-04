@@ -8,8 +8,10 @@ body {
     font-family: Arial, sans-serif;
     min-height: 100vh;
     padding: 30px 15px;
-
+   background-color: rgb(173, 229, 255);
 }
+
+
 
 .container {
     width: 90%;
