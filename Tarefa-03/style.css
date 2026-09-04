@@ -37,6 +37,6 @@ input:checked + label + .conteudo {
   }
 
 #do {
-  border-radius: 0px;
+  border-radius: 0.1px;
 }  
 
